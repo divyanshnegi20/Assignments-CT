@@ -1,0 +1,3 @@
+Dataset,ADF_Statistic,P_Value,Lags_Used,N_Observations,Status
+Training,-34.09353143359412,0.0,1,2110,STATIONARY
+Test,-23.534600825564702,0.0,0,527,STATIONARY

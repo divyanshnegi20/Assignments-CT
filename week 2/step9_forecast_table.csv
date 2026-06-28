@@ -1,0 +1,21 @@
+Record,Year,Month,Region,Model,Actual_Deliveries,Predicted_Deliveries,Absolute_Error,Error_Percent,Accuracy_Percent
+1,2023,10,Europe,Model X,9476,9063,413,4.36,95.64
+2,2023,10,Middle East,Model S,8179,8448,-269,-3.29,96.71
+3,2023,10,North America,Model X,14430,15095,-665,-4.61,95.39
+4,2023,10,Europe,Model Y,15912,16210,-298,-1.87,98.13
+5,2023,10,Asia,Model Y,15077,14597,480,3.18,96.82
+6,2023,10,Europe,Model S,11280,11383,-103,-0.91,99.09
+7,2023,10,Europe,Cybertruck,4070,3964,106,2.6,97.4
+8,2023,10,North America,Model 3,11636,11572,64,0.55,99.45
+9,2023,11,Europe,Model S,12540,12514,26,0.21,99.79
+10,2023,11,North America,Model S,12717,11842,875,6.88,93.12
+11,2023,11,North America,Model X,5365,5812,-447,-8.33,91.67
+12,2023,11,Europe,Model X,11323,11602,-279,-2.46,97.54
+13,2023,11,Asia,Cybertruck,8624,9025,-401,-4.65,95.35
+14,2023,11,North America,Cybertruck,11986,11620,366,3.05,96.95
+15,2023,11,Europe,Model 3,10577,11114,-537,-5.08,94.92
+16,2023,11,Europe,Cybertruck,15370,15066,304,1.98,98.02
+17,2023,11,North America,Model Y,2737,3210,-473,-17.28,82.72
+18,2023,11,Europe,Model Y,11523,11729,-206,-1.79,98.21
+19,2023,11,Middle East,Model X,10530,10169,361,3.43,96.57
+20,2023,11,Middle East,Model Y,11111,10693,418,3.76,96.24
